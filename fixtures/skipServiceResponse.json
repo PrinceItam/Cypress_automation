@@ -1,0 +1,177 @@
+{
+  "value": {
+    "serviceId": "c0aaf256-a4c5-4664-a471-8cb09a679fb9",
+    "device": {
+      "attributes": [
+        {
+          "name": "DataService.Attributes.MachineCreatedAt",
+          "value": "29.03.2019"
+        },
+        {
+          "name": "DataService.Attributes.LastRent",
+          "value": "10.12.2020"
+        },
+        {
+          "name": "DataService.Attributes.LastAnnualInspection",
+          "value": "-"
+        },
+        {
+          "name": "DataService.Attributes.NextAnnualInspection",
+          "value": "-"
+        },
+        {
+          "name": "DataService.Attributes.LastReturnInspection",
+          "value": "31.03.2022"
+        },
+        {
+          "name": "DataService.Attributes.LastService",
+          "value": "11.05.2022"
+        },
+        {
+          "name": "DataService.Attributes.LastRepair",
+          "value": "-"
+        },
+        {
+          "name": "DataService.Attributes.MaintenanceFrom",
+          "value": "31.03.2022"
+        },
+        {
+          "name": "DataService.Attributes.TotalOperatingHours",
+          "value": "  32"
+        },
+        {
+          "name": "DataService.Attributes.CurrentOperatingHours",
+          "value": "  "
+        },
+        {
+          "name": "DataService.Attributes.TotalRentalDays",
+          "value": "  43"
+        },
+        {
+          "name": "DataService.Attributes.CurrentRentalDays",
+          "value": "  "
+        }
+      ],
+      "reportDefinitionId": "7c7c82bc-dd31-4d8e-a635-4aef93c7eae0",
+      "reportDefinitionName": "kurottajan kurittaja",
+      "serviceReportDefinitionId": "f4bf0f86-b15d-4688-8205-bb3699069a76",
+      "serviceReportDefinitionName": "electro boogaloo",
+      "fuelType": null,
+      "adBlue": null,
+      "picture": null,
+      "activeFaults": [],
+      "permanentFaults": [],
+      "counters": [
+        {
+          "type": 3,
+          "value": 0.0,
+          "modifiedAt": "2022-05-11T14:47:14.1184086Z",
+          "isDeviceCounter": true
+        },
+        {
+          "type": 2,
+          "value": 43.0,
+          "modifiedAt": "2022-05-11T00:18:00",
+          "isDeviceCounter": true
+        },
+        {
+          "type": 5,
+          "value": 1.0,
+          "modifiedAt": "2022-03-30T06:44:06",
+          "isDeviceCounter": true
+        },
+        {
+          "type": 0,
+          "value": 32.0,
+          "modifiedAt": "2022-03-31T14:33:08",
+          "isDeviceCounter": true
+        },
+        {
+          "type": 1,
+          "value": 0.0,
+          "modifiedAt": "2022-05-11T14:47:14.1183532Z",
+          "isDeviceCounter": true
+        },
+        {
+          "type": 4,
+          "value": 17.0,
+          "modifiedAt": "2022-03-31T14:33:08",
+          "isDeviceCounter": true
+        }
+      ],
+      "hasServices": true,
+      "supportsOperatingHours": true,
+      "depo": {
+        "id": "a2f19846-b062-4d65-aace-5a92965fdf08",
+        "name": "Vantaa",
+        "costPool": "101",
+        "externalId": null,
+        "location": null,
+        "phone": null,
+        "email": null,
+        "deleted": false,
+        "deletedAt": null,
+        "deletedBy": null,
+        "isDepo": true
+      },
+      "isDevice": true,
+      "id": "d51528d7-4c54-45f0-8d58-9657a943636d",
+      "externalId": "96016",
+      "depoCostPool": "101",
+      "depoName": null,
+      "depoId": "a2f19846-b062-4d65-aace-5a92965fdf08",
+      "name": "KUROTTAJA 16-20 M JÄYKKÄ",
+      "type": "MANITOU MT 1840 100P ST4 S1",
+      "lastReturnReportDate": "2022-03-31T14:33:08.051242",
+      "lastAnnualReportDate": null,
+      "nextAnnualReportDate": null,
+      "lastReturnDate": "2020-11-30T13:00:05",
+      "lastServiceDate": "2022-05-11T00:00:00Z",
+      "lastServiceOperatingHours": 32.0,
+      "lastRepairDate": null,
+      "currentContractExternalId": "427282",
+      "lastContractExternalId": "427232",
+      "status": 2,
+      "statusChangedAt": "2022-03-31T14:33:09",
+      "maintenance": [
+        1,
+        3
+      ],
+      "previousStatus": 2,
+      "previousMaintenance": [
+        1,
+        3
+      ],
+      "highPriority": false,
+      "underInspection": false,
+      "inspectionStartedAt": null,
+      "inspectionStartedById": null,
+      "inspectionStartedBy": null,
+      "underService": false,
+      "serviceStartedAt": null,
+      "serviceStartedById": null,
+      "serviceStartedBy": null,
+      "hasFaults": false,
+      "priority": 1,
+      "fuelTypeId": null,
+      "adBlueId": null,
+      "deleted": false,
+      "deletedAt": null,
+      "deletedBy": null,
+      "returnInspectionReportDefinitionName": null,
+      "serviceDefinitionName": null,
+      "isDeviceInfo": true,
+      "hasAnnualInspectionRemarks": false,
+      "productGroupId": "20140",
+      "productGroupName": "KUROTTAJA 16-20 M JÄYKKÄ",
+      "parentProductGroupId": null,
+      "isProductGroup": true
+    }
+  },
+  "context": null,
+  "redirect": null,
+  "error": null,
+  "alert": null,
+  "unauthorized": false,
+  "isResponseContainer": true
+}
