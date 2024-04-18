@@ -78,4 +78,4 @@ class ReturnInspectionPage{
     }
 }
 
-export default new ReturnInspectionPage();
+export default new Test_Page_Inspection_Page();
